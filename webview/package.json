@@ -9,7 +9,7 @@
   "repository": "github.com",
   "config": {
     "message": "Add your favourite url as Franz service",
-    "hasTeamID ": false,
+    "hasTeamId ": false,
     "hasCustomUrl ": true
   }
 }
